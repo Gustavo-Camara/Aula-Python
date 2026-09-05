@@ -1,0 +1,5 @@
+numero1 = int(input("Digite um numero: "))
+
+for casa in range(0, numero1 + 1, 1):
+            #(de onde começa a contar, onde ele para, quantas casa ele ira contar)
+    print(casa)
